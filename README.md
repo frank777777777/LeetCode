@@ -1,2 +1,3 @@
 # LeetCode
-LeetCode_Practice
+LeetCode Algorithm Practice
+Dividied by level and category.
